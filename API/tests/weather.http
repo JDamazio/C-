@@ -1,0 +1,5 @@
+### Solicitando previsão de tempo
+GET https://localhost:5001/WeatherForecast
+
+### Teste first api
+GET https://localhost:5001/api/usuario/listar
